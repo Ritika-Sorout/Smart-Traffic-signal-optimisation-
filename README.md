@@ -204,10 +204,7 @@ CONFIG = {
 
 ---
 
-## 👤 Author
 
-**Traffic AI Research Lab** | Chennai, Tamil Nadu  
-Contact: research@trafficai.edu.in
 
 ---
 
